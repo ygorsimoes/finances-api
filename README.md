@@ -18,36 +18,36 @@ Follow the steps below to configure and run the project:
 
 Clone this repository, run the command:
 
-```cmd
+```bash
 git clone 
 ```
 
 Access the project folder, run the command:
 
-```cmd
+```bash
 cd finances-api
 ```
 
 Install the dependencies, run the command:
 
-```cmd
+```bash
 mvn install
 ```
 
 Run the project, run the command:
 
-```cmd
+```bash
 mvn spring-boot:run
 ```
 
 Run the tests, run the command:
 
-```cmd
+```bash
 mvn test
 ```
 
 Acess the project in the browser, open the link:
 
-```cmd
+```bash
 http://localhost:8080
 ```
